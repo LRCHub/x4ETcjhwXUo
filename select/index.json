@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "そんな人生を堪能したい",
+  "base_artist": "虎鷹",
+  "createdAt": "2025-12-17T11:46:10.545088Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そんな人生を堪能したい",
+      "artist": "虎鷹",
+      "has_synced": false,
+      "path": "select/pl_01_そんな人生を堪能したい_虎鷹.txt"
+    }
+  ]
+}
